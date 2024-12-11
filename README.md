@@ -1,4 +1,4 @@
-# react-native-weather-app
+# Weather Forecast App
 
 ## Tech Used
 
@@ -26,15 +26,6 @@ API_KEY=YourOpenWeatherKeyHere
 GOOGLE_KEY=YourGoogleKeyHere
 ```
 
-#### Step 3:
-
-- Download xcode 
-- In the menu bar go to Xcode -> Open Developer Tools -> Simulator
-
-#### Step 4: 
-
-- In your terminal run `yarn start`. 
-- In the browser, click on `Run on IOS Simulator`.
 
 ## Dependencies 
 
